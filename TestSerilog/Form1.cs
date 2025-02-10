@@ -47,7 +47,7 @@ namespace TestSerilog
             byte k = Convert.ToByte("0xFF");
             Console.WriteLine(k);
             Log.Error("Long Dep trai", "1 khong 2");
-            MessageBox.Show("mot ngay moi bat dau");
+            MessageBox.Show("mot ngay moi bat dau!long");
         }
     }
 }
